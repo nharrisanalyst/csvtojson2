@@ -1,0 +1,23 @@
+{
+  "name": "csvtojosn2",
+  "version": "1.0.0",
+  "description": "convert a csv file to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nharrisanalyst/csvtojson2.git"
+  },
+  "keywords": [
+    "csv",
+    "json"
+  ],
+  "author": "Nathan Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nharrisanalyst/csvtojson2/issues"
+  },
+  "homepage": "https://github.com/nharrisanalyst/csvtojson2#readme"
+}
